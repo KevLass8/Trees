@@ -5,7 +5,7 @@ public class Trees
  {
   this.tree = null; }  // sets tree to null
  public boolean empty()
- {
+ { 
   return this.tree == null;// returns the tree to null
  }
  //this adds a method
