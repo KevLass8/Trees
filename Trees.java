@@ -19,7 +19,7 @@ public class Trees
  public void print()  
  { print(this.tree); // prints out this tree
  }
- public void print(Node n)
+ public void print(Node n) 
  {
   if(n != null) // if n isnot null
   { this.print(n.left); // prints left
