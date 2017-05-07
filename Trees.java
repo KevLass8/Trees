@@ -1,6 +1,6 @@
 public class Trees
 { 
- Node tree;//Constructor for Trees
+ Node tree;//Constructor for Trees 
  public Trees() 
  {
   this.tree = null; }  // sets tree to null
